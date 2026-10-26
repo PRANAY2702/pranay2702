@@ -124,13 +124,13 @@ I'm a **2nd-year B.Tech student** specializing in Mathematics & Computing at PEC
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranay2702&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay2702&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/YOUR_GITHUB_USERNAME">Pranay Mehta</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/pranay2702">Pranay Mehta</a></sub>
 </div>
